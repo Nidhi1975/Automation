@@ -1,0 +1,9 @@
+README.md
+setup.py
+test_automation_framework.egg-info/PKG-INFO
+test_automation_framework.egg-info/SOURCES.txt
+test_automation_framework.egg-info/dependency_links.txt
+test_automation_framework.egg-info/requires.txt
+test_automation_framework.egg-info/top_level.txt
+utils/__init__.py
+utils/webdriver_manager.py
